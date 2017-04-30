@@ -35,6 +35,9 @@ imap <right> <nop>
 " => Plugin Configuration
 """"""""""""""""""""""""""""""""""""""
 
+" Automatically populate g:airline_symbols with font glyphs
+let g:airline_powerline_fonts = 1
+
 " Run Neomake on every save
 autocmd! BufWritePost * Neomake
 
