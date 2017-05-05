@@ -8,7 +8,7 @@ source ~/.config/nvim/plugins.vim
 set nocp		" Not compatible with vi
 set number		" Show line numbers
 set ttyfast		" Faster redrawing
-colorscheme molokai	" Set the colorscheme
+colorscheme Benokai	" Set the colorscheme
 
 """"""""""""""""""""""""""""""""""""""
 " => General Mappings
