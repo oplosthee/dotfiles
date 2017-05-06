@@ -13,13 +13,14 @@ cursor_blink = off
 cursor_shape = block
 scrollback_lines = 10000
 search_wrap = true
-font = Source Code Pro 12
+#font = Source Code Pro 12
+font = Dina 10
 browser = firefox
 
 [colors]
 foreground      = #dfe1e8
 foreground_bold = #dfe1e8
-background      = #343d46
+background      = #13171a
 
 # 16 color space
 color0  = #343d46

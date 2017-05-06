@@ -8,6 +8,9 @@ source ~/.config/nvim/plugins.vim
 set nocp		" Not compatible with vi
 set number		" Show line numbers
 set ttyfast		" Faster redrawing
+set tabstop=4 		" Show tabs as 4 spaces
+set shiftwidth=4 	" Use 4 spaces when using '>'
+set expandtab 		" Insert 4 spaces when using tab
 colorscheme Benokai	" Set the colorscheme
 
 """"""""""""""""""""""""""""""""""""""
